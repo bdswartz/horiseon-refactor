@@ -1,4 +1,4 @@
-/*  General Page Styling */
+/*  General Page Element Styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -118,7 +118,6 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 .footer h4 {
     font-size: 20px;
 }
